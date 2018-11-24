@@ -18,18 +18,5 @@
 * LSH for cosine similarity 
 * LSH for euclidean distance
 
-Distance Measures
-* Distance measures: Euclidean(L2) , Manhattan(L1), Minkowski, Hamming  
-* Cosine Distance & Cosine Similarity  
-
-Data Validation
-
-* Test/Evaluation  
-* Overfitting and Underfitting  
-* Need for Cross validation 
-* K-fold cross validation 
-* Visualizing train, validation and test datasets  
-* How to determine overfitting and underfitting?  
-* Time based splitting  
 
 
